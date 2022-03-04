@@ -8,7 +8,7 @@ Without `AUTH_USERS`, i.e, free to use by all!
 
 #### The Easy Way
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jijinr/VidComBot)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bereketx1/VidComBot)
 
 #### The Hard Way
 
